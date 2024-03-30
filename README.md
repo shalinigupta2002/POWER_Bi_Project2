@@ -1,1 +1,2 @@
 # POWER_Bi_Project2
+I made this project using power bi. It is a sales dashboard of a store name madhav where I compare increases in sales with different parameters . Here I import data, clean the data and process it , design dashboards, use advanced charts and maps, filters, and slicers, forecast in power bi, export dashboards as pdf, project insights, and learnings. This is an end-to-end project in Power BI. here i have checked sum of quantity by category, sum of amount compare to profit by month,sum of profit compare to profit by month, sum of and sum of profit by city.
